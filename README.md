@@ -58,38 +58,6 @@ santiago = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub stats
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ssaniefrancc&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=611212&icon_color=4a0e0e&text_color=e4d4c8&ring_color=611212" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssaniefrancc&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=611212&text_color=e4d4c8&langs_count=8" />
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ssaniefrancc&theme=dark&hide_border=true&background=00000000&stroke=8b1a1a&ring=6b1111&fire=c0392b&currStreakLabel=8b1a1a&sideLabels=c9b8b8&dates=c9b8b8&currStreakNum=8b1a1a&sideNums=8b1a1a)
-
-</div>
-
----
-
-## 🌱 Areas of interest
-
-- 📈 **Exploratory data analysis** — finding stories hidden inside datasets
-- 🤖 **Machine Learning** — predictive models and classification
-- 🧪 **Experimentation** — always trying something new
-- 💡 **Projects that solve real problems**
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saniefranco5@gmail.com)
-
 </div>
 
 ---
@@ -97,7 +65,5 @@ santiago = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1a1a,100:3d0a0a&height=80&section=footer" width="100%"/>
-
-*"Data doesn't lie — it just needs someone who knows how to read it."*
 
 </div>
